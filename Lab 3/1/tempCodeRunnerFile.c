@@ -1,0 +1,1 @@
+(char *) malloc (sizeof(char))

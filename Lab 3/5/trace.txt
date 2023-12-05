@@ -1,0 +1,21 @@
+data of the found id:
+
+search id:11111
+surname:Sardelkova
+name:Vasilia
+group:Group_C
+average grade:3.200000
+
+last name and first name of the student whose average score is higher than the average grade-rating:
+
+surname:Zaikov
+name:Arthem
+average grade:4.000000
+
+surname:Generalova
+name:Nika
+average grade:4.200000
+
+surname:Zubairov
+name:Arthur
+average grade:3.400000

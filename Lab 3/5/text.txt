@@ -1,0 +1,49 @@
+id:22134
+surname:Zubairov
+name:Arthur
+group:Group_B
+Matematic:4
+Society:4
+Russian language:4
+English language:3
+don net program:2
+
+id:22123
+surname:Generalova
+name:Nika
+group:Group_C
+Matematic:5
+Society:4
+Russian language:5
+English language:5
+don net program:2
+
+id:22111
+surname:Zaikov
+name:Arthem
+group:Group_A
+Matematic:3
+Society:5
+Russian language:5
+English language:4
+don net program:3
+
+id:75555
+surname:Vaskova
+name:Alisa
+group:Group_B
+Matematic:2
+Society:2
+Russian language:2
+English language:2
+don net program:2
+
+id:11111
+surname:Sardelkova
+name:Vasilia
+group:Group_C
+Matematic:3
+Society:4
+Russian language:4
+English language:3
+don net program:2
